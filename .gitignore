@@ -1,4 +1,4 @@
 backend/env
 backend/**/*.pyc
 frontend/node_module/
-.vscode
+.vscodenode_modules
