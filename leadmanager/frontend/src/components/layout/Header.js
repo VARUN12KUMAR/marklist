@@ -62,7 +62,7 @@ export class Header extends Component {
             </a>
             <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-        <a class="nav-link" href="#">About Us</a>
+        <Link to='/aboutus' class="nav-link">About Us</Link>
       </li>
             </ul>
           </div>

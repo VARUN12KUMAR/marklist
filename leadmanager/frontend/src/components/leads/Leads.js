@@ -16,7 +16,7 @@ export class Leads extends Component {
     render() {
         return (
             <Fragment>
-                <h2>Lead</h2>
+                <h2><strong>Lead</strong></h2>
                 <table className="table table-striped"> 
                 <thead>
                     <tr>

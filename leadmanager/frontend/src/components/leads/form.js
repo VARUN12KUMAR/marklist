@@ -27,7 +27,7 @@ export class form extends Component {
         return (
             <div className="card card-body mt-4 mb-4 " >
                 <h2>
-                    Add Lead
+                    <strong>Add Mark</strong>
                 </h2>
                 <form on onSubmit={this.onSubmit}>
                     <div className ="from-group">
