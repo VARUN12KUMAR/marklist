@@ -1,0 +1,26 @@
+<div className='container p-1 p-sm-3'>
+                        <div className="row">
+                            <div className='col-12 text-center'>
+                                <h2 ><strong>About The Project</strong></h2>
+                                <hr/>
+                                
+                            </div>
+                            <div className='col-sm-3 text-center p-1 p-sm-3'>
+                                <img className="rounded float-left" src="https://scontent.fslv1-1.fna.fbcdn.net/v/t1.0-0/p206x206/65121548_340656149936733_3063647902208360448_n.jpg?_nc_cat=110&_nc_ohc=hQmgg3uiGo0AX_PMvDD&_nc_ht=scontent.fslv1-1.fna&_nc_tp=1002&oh=f8c8d71ce2d72d20601ee00146dacdcf&oe=5ED7FE15" alt="varun"/>
+                                <hr/>
+                                
+                            </div>
+                            <div className='col-sm-9 text-center p-1 p-sm-3'>
+                                <p>This is full stack react single page application.This project based on adding marks of a perticular subject</p>
+                                <p>This application is working as marlist type and also it is fully secured with authentication.Application frontend work on react and backend working on django rest framework.it is fully 
+                                    secured.No one can access the data of anyone.data is access by authunticated user which means user should be
+                                     registered at this application.</p>
+                                     <p>This application is devloped by Varun Kumar which is a studend of Computer Science at Harcourt Butler Technical University</p>
+                                     <p>We kept in mind while devloping this application is that the application motive only to add marks of a perticular subject.This 
+                                         is full stack single page Application as I mentioned above . </p>
+
+                                <hr/>
+                                
+                            </div>
+                        </div>
+                    </div>
